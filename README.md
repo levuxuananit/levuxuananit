@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">Gmail: <a href="mailto:levuxuanan.it@gmail.com" target="_blank">levuxuanan.it@gmail.com</a></p>
-<p align="center">Linkedin: <a href="https://www.linkedin.com/in/levuxuanan/" target="_blank">LeVuXuanAn =</a></p>
+<p align="center">Linkedin: <a href="https://www.linkedin.com/in/levuxuanan/" target="_blank">LeVuXuanAn</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
