@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  HELLO! I'M <ahref="https://www.linkedin.com/in/levuxuanan/" target="_blank">LE VU XUAN AN</ahref=>
+  HELLO! I'M <a href="https://www.linkedin.com/in/levuxuanan/" target="_blank">LE VU XUAN AN</ahref=>
   <br>
   <h5>Software Engineer Fresher with hands-on experience in full-stack web development and Android mobile applications. I am actively involved in research and gaining experience working with AWS services and cloud architecture.</h5>
 </h1>
