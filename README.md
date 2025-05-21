@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  HELLO! I'M <a href="https://www.linkedin.com/in/levuxuanan/" target="_blank">LE VU XUAN AN</ahref=>
-  <br>
-  <h5>Software Engineer Fresher with hands-on experience in full-stack web development and Android mobile applications. I am actively involved in research and gaining experience working with AWS services and cloud architecture.</h5>
+  HELLO! I'M <a href="https://www.linkedin.com/in/levuxuanan/" target="_blank">LE VU XUAN AN</a>
+
+  <h5 align="center">Software Engineer Fresher with hands-on experience in full-stack web development and Android mobile applications. I am actively involved in research and gaining experience working with AWS services and cloud architecture.</h5>
 </h1>
 
 <p align="center">Gmail: <a href="mailto:levuxuanan.it@gmail.com" target="_blank">levuxuanan.it@gmail.com</a></p>
