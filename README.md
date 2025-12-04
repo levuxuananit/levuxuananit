@@ -2,7 +2,8 @@
   <br>
   HELLO! I'M <a href="https://www.linkedin.com/in/levuxuanan/" target="_blank">LE VU XUAN AN</a>
 
-  <h5 align="center">Software Engineer Fresher with hands-on experience in full-stack web development and Android mobile applications. I am actively involved in research and gaining experience working with AWS services and cloud architecture.</h5>
+  <h5 align="center">🔻 I’m currently AWS Cloud Club Captain at HCMUTE and Cloud Engineer Ambassador at AWS Cloud AI Journey. Even as a fresher, I’ve had the chance to dive into real digital-transformation projects for AWS customers in the securities industry - an experience that shaped the way I approach scalable cloud solutions. I love exploring AWS services, learning fast, and turning ideas into real systems, from automation to GenAI-powered applications.</h5>
+  <h5 align="center">🔻 Leading a cloud community has helped me grow strong leadership, communication, and teamwork skills. I’m now aiming to level up in Cloud &amp; DevOps on my journey to becoming a professional DevOps Engineer.</h5>
 </h1>
 
 <p align="center">Gmail: <a href="mailto:levuxuanan.it@gmail.com" target="_blank">levuxuanan.it@gmail.com</a></p>
