@@ -14,8 +14,6 @@ I am a Software & Cloud Engineer based in Ho Chi Minh City, Vietnam. Even as a f
 
 As one of the first AWS Cloud Club Captains in Vietnam, I have led community workshops and hands-on sessions with 200+ participants. I also serve as an AWS Cloud Engineer Ambassador at the AWS First Cloud Journey program, developing practical AWS workshops and speaking at technical events. I am now focused on advancing my skills in Cloud & DevOps on my path to becoming a professional DevOps Engineer.
 
-I’d be happy to connect with you on LinkedIn!
-
 #### Languages, Frameworks, Platforms and Libraries...
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
