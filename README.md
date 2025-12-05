@@ -10,16 +10,11 @@
 
 ## About Me
 
-<div align="center">
 I am a Software & Cloud Engineer based in Ho Chi Minh City, Vietnam. Even as a fresher, I contributed to digital transformation projects for AWS customers in the finance and securities sector, gaining hands-on experience in large-scale cloud solutions and production-ready architectures.
-</div>
 
-<div align="center">
 As one of the first AWS Cloud Club Captains in Vietnam, I have led community workshops and hands-on sessions with 200+ participants. I also serve as an AWS Cloud Engineer Ambassador at the AWS First Cloud Journey program, developing practical AWS workshops and speaking at technical events. I am now focused on advancing my skills in Cloud & DevOps on my path to becoming a professional DevOps Engineer.
 
 I’d be happy to connect with you on LinkedIn!
-
-</div>
 
 #### Languages, Frameworks, Platforms and Libraries...
 
