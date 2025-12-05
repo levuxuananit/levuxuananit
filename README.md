@@ -18,19 +18,7 @@ I am a Software & Cloud Engineer based in Ho Chi Minh City, Vietnam. Even as a f
 As one of the first AWS Cloud Club Captains in Vietnam, I have led community workshops and hands-on sessions with 200+ participants. I also serve as an AWS Cloud Engineer Ambassador at the AWS First Cloud Journey program, developing practical AWS workshops and speaking at technical events. I am now focused on advancing my skills in Cloud & DevOps on my path to becoming a professional DevOps Engineer.
 
 I’d be happy to connect with you on LinkedIn!
-<button style="
-  background-color: #0077B5;
-  color: white;
-  font-size: 18px;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background-color 0.3s, transform 0.2s;
-" onmouseover="this.style.backgroundColor='#005582'; this.style.transform='scale(1.05)';"
-   onmouseout="this.style.backgroundColor='#0077B5'; this.style.transform='scale(1)';">
-Connect Linkedin
-</button>
+
 </div>
 
 #### Languages, Frameworks, Platforms and Libraries...
