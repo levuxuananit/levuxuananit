@@ -8,7 +8,7 @@ AWS Cloud Club Captain | Cloud Engineer Ambassador
 
 ## Community
 
-Founder & Captain of AWS Cloud Club [HCM UTE](https://www.meetup.com/aws-cloud-club-at-ho-chi-minh-city-university-t-e/) — leading operations, organizing technical workshops, and mentoring members in cloud technologies.
+Founder & Captain @ [AWS Cloud Club HCM UTE](https://www.meetup.com/aws-cloud-club-at-ho-chi-minh-city-university-t-e/) — leading operations, organizing technical workshops, and mentoring members in cloud technologies.
 
 ## Contact
 
