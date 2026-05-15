@@ -1,11 +1,6 @@
 # Le Vu Xuan An
 
-Backend Developer | Passionate about Cloud-Native Development on AWS.
-
-Focus: Java (Spring Boot), React, REST APIs, MySQL, AWS (EC2, S3, RDS, IAM), Git, Docker (basic)
-
-AWS Cloud Club Captain | Cloud Engineer Ambassador
-
+Cloud-Native Developer | Leader @ AWS Student Builder Group | Ambassador @ AWS First Cloud AI Journey
 ## Community
 
 Founder & Captain @ [AWS Cloud Club HCM UTE](https://www.meetup.com/aws-cloud-club-at-ho-chi-minh-city-university-t-e/) — leading operations, organizing technical workshops, and mentoring members in cloud technologies.
