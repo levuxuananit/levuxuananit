@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&customColorList=1,1,7&text=Xuan%20An&desc=Cloud-Native%20Developer%20|%20AWS%20Ambassador%20|%20DevOps%20Enthusiast&descAlignY=62&fontAlignY=40&fontSize=60&descSize=15" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&customColorList=1,1,7&text=Xuan%20An&desc=Cloud-Native%20Developer%20|%20AWS%20SBG%20Leader%20|%20FCAJ%20Ambassador&descAlignY=62&fontAlignY=40&fontSize=60&descSize=15" alt="Header Banner"/>
 </p>
 
 <p align="center">
