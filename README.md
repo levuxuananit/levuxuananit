@@ -18,7 +18,7 @@
 ## ➤ About Me
 I am an passionate **Cloud-native Engineer** dedicated to building scalable backend systems and automating cloud infrastructure. I focus on leveraging the Backend (Spring Boot, Node.js) and AWS to transform complex requirements into high-performance, production-ready solutions.
 
-I combine a strong technical foundation with leadership experience as an AWS Cloud Club Captain and Ambassador. I am passionate about mastering the DevOps lifecycle and delivering real business impact through clean code and robust CI/CD automation.
+I combine a **strong technical foundation** with leadership experience as an AWS Student Builder Leader. I am passionate about Cloud/DevOps and delivering real business impact through clean code and robust CI/CD automation.
 
 ## ➤ Roles and Recognition
 - Cloud Engineer Ambassador, [AWS First Cloud AI Journey](https://cloudjourney.awsstudygroup.com) - a complete beginner-to-professional AWS learning path.
