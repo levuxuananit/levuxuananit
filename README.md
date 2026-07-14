@@ -16,7 +16,7 @@
 </p>
 
 ## ➤ About Me
-I am an passionate **Cloud-native Engineer** dedicated to building scalable backend systems and automating cloud infrastructure. I focus on leveraging the Backend (Spring Boot, Node.js) and AWS to transform complex requirements into high-performance, production-ready solutions.
+I am an passionate **Software Developer** dedicated to building scalable backend systems and automating cloud infrastructure. I focus on leveraging the Backend (Spring Boot, Node.js) and AWS to transform complex requirements into high-performance, production-ready solutions.
 
 I combine a **strong technical foundation** with leadership experience as an AWS Student Builder Leader. I am passionate about Cloud/DevOps and delivering real business impact through clean code and robust CI/CD automation.
 
